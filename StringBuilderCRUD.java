@@ -22,6 +22,6 @@ public class StringBuilderCRUD{
     sb.setCharAt(2,'s'); 
     
     // to append at end
-    sb.append('g);
+    sb.append('g');
   }
 }
