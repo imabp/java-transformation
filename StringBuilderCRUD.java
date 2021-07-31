@@ -10,7 +10,7 @@ public class StringBuilderCRUD{
     StringBuilder sb = new StringBuilder("helloworld"); //this initializes and declares the stringbuilder
     
     // to get character.
-    sb.getCharAt(0);
+    sb.charAt(0);
 
     // to insert char at index 2 -> Output: heylloworld (Note: Rest things shift, to next index, and overall length increases);
     sb.insert(2,'y');
